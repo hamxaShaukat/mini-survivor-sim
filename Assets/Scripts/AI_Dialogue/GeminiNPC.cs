@@ -8,7 +8,7 @@ using System.Collections.Generic;
 public class GeminiNPC : MonoBehaviour
 {
     [Header("=== GEMINI API CONFIGURATION ===")]
-    public string apiKey = "AIzaSyAsREvTZobeVptC7slWm96M2H0IB3gFfQA"; // Replace with your API key
+    public string apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Replace with your API key
     public string model = "gemini-2.5-flash";
     public bool enableGemini = true;
     
